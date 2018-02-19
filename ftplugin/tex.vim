@@ -6,9 +6,6 @@
 " Setting the greek letter leader
 let maplocalleader = "`"
 
-" Set no timeout for the mappings below
-set notimeout
-
 " Setting up quick mapping of the greek alphabet
 inoremap <buffer> <localleader>a \alpha
 inoremap <buffer> <localleader>b \beta
